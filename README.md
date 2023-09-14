@@ -9,3 +9,6 @@ The author begins by expressing their fascination with **coding** and how it pow
 > The article underscores the importance of adaptability, continuous learning, and soft skills in the ever-evolving field of software engineering.
 
 [Read the full article here](https://hbr.org/2021/07/career-crush-what-is-it-like-to-be-a-software-engineer)
+
+### Athena's Takeaways
+The article Lianna has chosen provides a succint summary and first-hand account on **Lindsey Redd's** software engineering career. I found Redd's interview to be quite ***relatable***; I also was very deadset on becoming a doctor in high school and found myself grappling to make the decision to switch my major. My friends also impacted my decision to take my first ever programming course, so to see someone as accomplished as Redd start on the same path as I, was really cool.
